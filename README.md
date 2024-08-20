@@ -3,7 +3,7 @@ A landing page for AI Site
 Tools Used: Next.js, React, Framer Motion
 
 ## Live Version
-Check out the [Live Demo](http://localhost:3000)
+Check out the [Live Demo](https://ai-startup-landing-page-tau.vercel.app/)
 
 
 

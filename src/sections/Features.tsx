@@ -112,7 +112,7 @@ export const Features = () => {
     animate(backgroudPoisitonY, [backgroudPoisitonY,tabs[index].backgroundPositionY],options)
   }
 
-  return <section className="py-20 md:py-24">
+  return <section className="py-20 md:py-24"  id="Features">
     <div className="container">
       <h2 className="text-5xl md:text-6xl font-medium tracking-tighter text-center">Elevate your SEO efforts.</h2>
       <p className="mt-5 md:text-xl max-w-2xl mx-auto text-center tracking-tight text-white/70 text-lg">
